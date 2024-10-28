@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="bzrglxt:Web exploded">
+    <output-path>$PROJECT_DIR$/classes/artifacts/bzrglxt_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="bzrglxt/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="bzrglxt" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
